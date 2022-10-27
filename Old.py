@@ -52,8 +52,9 @@ br.addheaders = [('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/5
 br.addheaders = [('Mozilla/5.0 (X11; Linux x86_64; rv:105.0) Gecko/20100101 Firefox/105.0')]
 br.addheaders = [('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36')]
 
-def keluar():
-	
+def clear():
+print(logo)
+    os.system('clear')
 	os.sys.exit()
 
 def acak(b):
