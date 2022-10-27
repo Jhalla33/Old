@@ -54,7 +54,7 @@ br.addheaders = [('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/5
 
 def clear():
 	os.system('clear')
-print(logo)
+
 
 	os.sys.exit()
 
