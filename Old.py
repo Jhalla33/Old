@@ -53,11 +53,7 @@ br.addheaders = [('Mozilla/5.0 (X11; Linux x86_64; rv:105.0) Gecko/20100101 Fire
 br.addheaders = [('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36')]
 
 def clear():
-	os.system('clear')
-
-
-	os.sys.exit()
-
+	
 def acak(b):
     w = 'ahtdzjc'
     d = ''
